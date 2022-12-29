@@ -4,7 +4,7 @@ The BottomNavigationBar that stays visible at the bottom of the screen.
 
 ScreenRecording 👇
 
-<img src="bottomNav.gif"  height="600" />
+<img src="bottom_nav.gif"  height="600" />
 
 
 ## Getting Started
