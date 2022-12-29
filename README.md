@@ -1,6 +1,9 @@
 # bottom_nav
 
-A new Flutter project.
+The BottomNavigationBar that stays visible at the bottom of the screen.
+
+ScreenRecording 👇
+![](bottomNav.gif)
 
 ## Getting Started
 
